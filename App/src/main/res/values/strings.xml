@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuntimePermissions</string>
+    <string name="intro_message">
+        This sample shows runtime permissions available in Android 10 and above.
+        If executed on an Android 10 device, an additional option to access background location permission is shown.
+    </string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="request_gps_permission">1. Request GPS permission</string>
+    <string name="request_bg_permission">2. Request Background permission</string>
+    <string name="gps_permission_not_granted">GPS Permission Not Granted</string>
+    <string name="gps_permission_granted">GPS Permission Granted</string>
+    <string name="background_permission_not_granted">Background Permission Not Granted</string>
+    <string name="background_permission_granted">Background Permission Granted</string>
+</resources>
